@@ -1,0 +1,25 @@
+version: "3.1"
+
+intents:
+  - saludo
+  - descuento
+  - detalle_plan
+
+responses:
+  utter_did_that_help:
+  - text: "Hola , en que te puedo ayudar?"
+
+  utter_goodbye:
+  - text: "Adios"
+
+entities:
+  - plan
+
+actions :
+  - action_mostrar_promociones
+  - action_plan_detalle
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

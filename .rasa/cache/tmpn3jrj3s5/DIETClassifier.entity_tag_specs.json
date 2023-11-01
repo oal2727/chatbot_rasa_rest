@@ -1,0 +1,20 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-plan",
+      "2": "I-plan",
+      "3": "L-plan",
+      "4": "U-plan",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-plan": 1,
+      "I-plan": 2,
+      "L-plan": 3,
+      "U-plan": 4,
+      "O": 0
+    },
+    "num_tags": 5
+  }
+]

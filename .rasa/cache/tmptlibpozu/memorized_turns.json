@@ -1,0 +1,9 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJbU4uRTIyq+tjQUAW8kdOA==": "mostrar_promociones",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohJbU4uRTIyq8lYE5ufnFJUWJRfEFRfm5+MlA8tRivabEA3NE7aA==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhODGnNCW/tjYWAAX6G/Y=": "utter_did_that_help",
+    "eJyFjMEJwCAMAFfJAJ3AVUoJQQMGbBSN/Yi7V2i/pb87OG4fc4NRKl9I3iSrg/EAKp3s4JUkzVhX2xvX1YguNQeNUg95/ky6GVcMEtAiGUZO5Xt13HBdOKs=": "action_listen"
+  }
+}

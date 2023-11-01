@@ -1,0 +1,12 @@
+version: "3.1"
+
+stories:
+
+- story: detalle de promociones
+  steps:
+  - intent: saludo
+  - action: utter_did_that_help
+  - intent: descuento
+  - action: action_mostrar_promociones
+  - intent: detalle_plan
+  - action: action_plan_detalle 

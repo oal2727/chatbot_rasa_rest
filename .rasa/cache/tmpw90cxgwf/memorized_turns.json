@@ -1,0 +1,10 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJwti8EJgDAMAFfJAE7QVURCqEECmpY0+inZ3YD+7uBunbHA7MYPUnVpWmB+gEoXF/jllOGs2d6DLRvRVC8gehgPMty5k3ku6i1iewHY0CIs": "extraer_entidad_departamento",
+    "eJyNjUEKgDAMBL/SB/iCfkUkBBskoGlJowilfzegF09624WZ3bH1IbSidADOxlliaHcAwY1ieMrK1Uic3SupMyxeLQaWRamiQqKCaq6I5f6xSacpkoKznDC93b8X0wV88EjR": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "utter_happy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpZSYkJFYUFCJ04RYABQrTbQ=": "action_listen"
+  }
+}

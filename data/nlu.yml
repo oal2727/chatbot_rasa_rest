@@ -1,0 +1,67 @@
+version: "3.1"
+
+nlu:
+
+- intent: saludo
+  examples: |
+    - hola
+    - ¡hola!
+    - hi
+    - buen día
+    - buenas tardes
+    - moin
+    - hola, ¿cómo estás?
+    - vamos
+    - hola amigo
+    - buenos días
+    - buenas noches
+    - buenas
+
+- intent: descuento
+  examples: |
+    - promociones de planes
+    - descuento
+    - lista de descuento
+    - mencioname los descuentos actuales
+    - lista de descuentos
+    - promociones
+
+- intent: adios
+  examples: |
+    - adiós
+    - hasta luego
+    - chau
+    - buenas noches
+    - bye
+    - nos vemos
+    - que tengas un buen día
+    - nos vemos por ahí
+    - bye bye
+    - hasta pronto
+
+- intent: afirmar
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - nunca
+    - no lo creo
+    - no me gusta eso
+    - de ninguna manera
+    - no realmente
+
+- intent: detalle_plan
+  examples: |
+    - Quiero el plan [1-13](plan)
+    - Detalle del plan [1-13](plan)
+    - Proporcioname el plan [1-13](plan)
+    - dame el plan [1-13](plan)
+    - necesito detalle del plan [1-13](plan)
